@@ -1,5 +1,7 @@
 # Welcome to SlickGrid
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/phantom7/SlickGrid?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Find documentation and examples in [the wiki](https://github.com/mleibman/SlickGrid/wiki).
 
 
